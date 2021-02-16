@@ -10,14 +10,14 @@
 
   <br>
 <a target="_blank" href="https://www.youtube.com/c/%D8%B3%D9%8A%D9%81%D9%88%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A8%D9%8A0/featured">
-<p align="center"><img title="سيفو الجنابي" src="res/iraq.png"  style="width:20px" ></p>
+<p align="center"><img title="سيفو الجنابي" src="res/iraq.png"  width="10%" height="40%" ></p>
 </a>
 
 
 ###### <p align="center"> GPS Location Tracker (Android, IOS, Windows phones.)
 <p align=center>
   <a href="https://www.instagram.com/seefu.x"><img title="GitHub version" src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.1&x2=1" ></a>
-  <a href="#"><img src="https://badges.pufler.dev/visits/seefu-x/seefu-x/">
+  <a href="#"><img src="https://badges.pufler.dev/visits/seefu-x/EyeScorpion/">
 
 ###### <p align="center">*This is official repository maintained by us*
 ###### <p align="center"> *[**seefu.x**](https://www.instagram.com/seefu.x/) ❤️*
