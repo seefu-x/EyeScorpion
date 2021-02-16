@@ -121,7 +121,7 @@ usage: eyescorpion.py [-h] [-s SUBDOMAIN]
 optional arguments:
   -h, --help            show this help message and exit
   -k KML, --kml         Provide KML Filename ( Optional )
-  -p PORT, --port       Port for Web Server [ Default : 8080 ]
+  -p PORT, --port       Port for Web Server [ Default : 122 ]
   -t TUNNEL, --tunnel   Specify Tunnel Mode [ Available : manual ]
 
 ##################
