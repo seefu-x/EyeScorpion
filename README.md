@@ -69,7 +69,7 @@ Available Templates :
 ### Basic For Beginners
 
 ```bash
-$ git clone https://github.com/bhikandeshmukh/MapEye.git
+$ git clone https://github.com/seefu-x/EyeScorpion.git
 $ cd EyeScorpion
 $ python3 EyeScorpion.py -t manual -k testkml
 ```
@@ -88,7 +88,7 @@ send link to victim
 ### Kali Linux / Ubuntu / Parrot OS
 
 ```bash
-git clone https://github.com/bhikandeshmukh/MapEye.git
+git clone https://github.com/seefu-x/EyeScorpion.git
 cd EyeScorpion
 apt update
 apt install python3 python3-pip php
@@ -104,7 +104,7 @@ pacman -S eyescorpion.py
 ### Termux
 
 ```bash
-git clone https://github.com/bhikandeshmukh/MapEye.git
+git clone https://github.com/seefu-x/EyeScorpion.git
 cd EyeScorpion
 pkg update
 pkg install python php
