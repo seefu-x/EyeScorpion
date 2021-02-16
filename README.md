@@ -53,6 +53,7 @@ Available Templates :
 
 * WhatsApp group
 * Telegram
+* Sex +18 (;
 
 ## Tested On :
 
