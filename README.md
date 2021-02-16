@@ -10,7 +10,7 @@
 
   <br>
 <a target="_blank" href="https://www.youtube.com/c/%D8%B3%D9%8A%D9%81%D9%88%D8%A7%D9%84%D8%AC%D9%86%D8%A7%D8%A8%D9%8A0/featured">
-<p align="center"><img title="سيفو الجنابي" src="res/iraq.png"  style="width:150px" ></p>
+<p align="center"><img title="سيفو الجنابي" src="res/iraq.png"  style="width:20px" ></p>
 </a>
 
 
