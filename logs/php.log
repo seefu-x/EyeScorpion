@@ -1,0 +1,43 @@
+[Tue Feb 16 07:39:26 2021] PHP 7.4.14 Development Server (http://0.0.0.0:122) started
+[Tue Feb 16 07:39:29 2021] 127.0.0.1:49234 Accepted
+[Tue Feb 16 07:39:29 2021] 127.0.0.1:49234 [200]: (null) /index.html
+[Tue Feb 16 07:39:29 2021] 127.0.0.1:49234 Closing
+[Tue Feb 16 07:39:38 2021] 127.0.0.1:49242 Accepted
+[Tue Feb 16 07:39:38 2021] 127.0.0.1:49242 [200]: (null) /
+[Tue Feb 16 07:39:38 2021] 127.0.0.1:49242 Closing
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49254 Accepted
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49254 [200]: (null) /css/s9hWiNS5894.css
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49254 Closing
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49258 Accepted
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49258 [200]: (null) /js/info.js
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49258 Closing
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49264 Accepted
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49266 Accepted
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49264 [200]: (null) /css/Epf3I8GM5jv.css
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49264 Closing
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49266 [200]: (null) /js/location.js
+[Tue Feb 16 07:39:39 2021] 127.0.0.1:49266 Closing
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49272 Accepted
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49272 [200]: (null) /
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49272 Closing
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49276 Accepted
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49276 [200]: (null) /css/Epf3I8GM5jv.css
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49280 Accepted
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49276 Closing
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49280 [200]: (null) /css/s9hWiNS5894.css
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49280 Closing
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49284 Accepted
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49284 [200]: (null) /js/info.js
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49284 Closing
+[Tue Feb 16 07:39:41 2021] 127.0.0.1:49288 Accepted
+[Tue Feb 16 07:39:42 2021] 127.0.0.1:49288 [200]: (null) /js/location.js
+[Tue Feb 16 07:39:42 2021] 127.0.0.1:49288 Closing
+[Tue Feb 16 07:39:43 2021] 127.0.0.1:49294 Accepted
+[Tue Feb 16 07:39:43 2021] 127.0.0.1:49296 Accepted
+[Tue Feb 16 07:39:43 2021] 127.0.0.1:49294 [200]: (null) /images/-r3j-x8ZnM7.svg
+[Tue Feb 16 07:39:43 2021] 127.0.0.1:49296 [200]: (null) /images/12.png
+[Tue Feb 16 07:39:43 2021] 127.0.0.1:49294 Closing
+[Tue Feb 16 07:39:43 2021] 127.0.0.1:49296 Closing
+[Tue Feb 16 07:39:44 2021] 127.0.0.1:49304 Accepted
+[Tue Feb 16 07:39:44 2021] 127.0.0.1:49304 [200]: POST /php/info.php
+[Tue Feb 16 07:39:44 2021] 127.0.0.1:49304 Closing

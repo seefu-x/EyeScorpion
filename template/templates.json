@@ -1,0 +1,16 @@
+{
+    "templates": [
+        {
+            "name": "WhatsApp",
+            "dir_name": "whatsapp_seefu",
+            "module": true,
+            "import_file": "seefu_whatsapp"
+        },
+        {
+            "name": "Telegram",
+            "dir_name": "telegram_seefu",
+            "module": true,
+            "import_file": "seefu_telegram"
+        }
+    ]
+}
