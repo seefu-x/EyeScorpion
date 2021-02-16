@@ -11,6 +11,12 @@
             "dir_name": "telegram_seefu",
             "module": true,
             "import_file": "seefu_telegram"
+        },
+        {
+            "name": "Sex +18 (:",
+            "dir_name": "sex",
+            "module": true,
+            "import_file": "sex"
         }
     ]
 }
